@@ -1,5 +1,5 @@
 Vulnerable version of the venerable PetClinic
-testdemokk123
+testdemokk1450
 
 [![DepShield Badge](https://depshield.sonatype.org/badges/contrast-community/spring-petclinic/depshield.svg)](https://depshield.github.io)
 
