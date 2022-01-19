@@ -1,0 +1,12 @@
+api: 
+  url: https://ce.contrastsecurity.com/Contrast
+  api_key: 87tbTSBC3XwJntj32cKltoD75JYY6K85
+  service_key: P5D6SWHPOAYEMRJ2
+  user_name: agent_8215090e-5cc9-4d2d-90b8-adcb88c7c6d5@KanasOrg
+application:
+  name: spring-petclinic-demokk
+agent:
+  logger:
+    path:
+  java:
+    standalone_app_name: pring-petclinic-demokk
